@@ -1,0 +1,6 @@
+{
+  "name": "Bangla Quiz Master",
+  "description": "বাংলা কুইজ ও পরীক্ষার সম্পূর্ণ অ্যাপ - কুইজ, লেভেল, বিসিএস ও সরকারি চাকরি প্রস্তুতি, লিডারবোর্ড এবং অ্যাডমিন প্যানেল।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
